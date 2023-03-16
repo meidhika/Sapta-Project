@@ -7,4 +7,5 @@ Rencana Sapta Travel
 - Menjalankan SOP
 - Menggaji karyawan
 ^ setara Umr
+^ gaji direktur
 - Mengajak orang magang
