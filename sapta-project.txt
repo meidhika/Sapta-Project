@@ -1,3 +1,5 @@
 Sapta Project
 - Konsisten membuat fullstack website
 - Membuat Content untuk Personal Branding
+- Membuat Mindmap Usaha
+- Fokus Self Improving 
